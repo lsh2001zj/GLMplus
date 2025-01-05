@@ -13,4 +13,3 @@ usethis: :use_package("stats")
 Imports: 
     stats,
     statmod
-
